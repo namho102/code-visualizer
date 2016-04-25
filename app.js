@@ -9,4 +9,9 @@ function add(a, b) {
 function sub(a, b) {
   return add(a, -b)
 }
+
+function multy(a, b) {
+  return a * b;
+}
+
 console.log(sub(2, 3))
